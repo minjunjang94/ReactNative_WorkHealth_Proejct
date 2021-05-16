@@ -21,7 +21,7 @@
  const App: () => Node = () => {
    return (
        <View style = {styles.container}>
-           <Text style = {styles.hello}>Hello World</Text>
+           <Text style = {styles.hello}>ReactNative_WorkHealth_Proejct</Text>
        </View>
    );
  };
@@ -33,7 +33,7 @@
        alignItems : 'center' //세로 영역 센터
      },
      hello : {
-       color : 'red'
+       color : 'blue'
      }
  });
  
